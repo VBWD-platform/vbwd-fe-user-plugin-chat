@@ -15,6 +15,6 @@
     "emptyState": "Inicie una conversación escribiendo un mensaje a continuación."
   },
   "nav": {
-    "chat": "Chat"
+    "chat": "LLM-Chat"
   }
 }
