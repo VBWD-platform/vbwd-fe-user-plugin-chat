@@ -13,7 +13,7 @@ describe('Chat Plugin', () => {
 
   it('should have correct metadata', () => {
     expect(chatPlugin.name).toBe('chat')
-    expect(chatPlugin.version).toBe('1.0.0')
+    expect(chatPlugin.version).toBe('26.6.1')
   })
 
   it('should register chat route on install', async () => {
