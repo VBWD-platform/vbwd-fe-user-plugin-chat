@@ -11,7 +11,7 @@ import zh from './locales/zh.json';
 
 export const chatPlugin: IPlugin = {
   name: 'chat',
-  version: '26.6',
+  version: '26.6.0',
   description: 'LLM chat with token-based billing',
   _active: false,
 
