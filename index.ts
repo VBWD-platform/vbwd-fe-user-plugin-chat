@@ -38,6 +38,7 @@ export const chatPlugin: IPlugin = {
     userNavRegistry.register({
       pluginName: 'chat',
       to: '/dashboard/chat',
+      icon: 'chat',
       labelKey: 'nav.chat',
       testId: 'nav-chat',
     });
